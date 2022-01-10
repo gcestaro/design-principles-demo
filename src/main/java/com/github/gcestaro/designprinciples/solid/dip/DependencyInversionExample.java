@@ -7,5 +7,4 @@ public class DependencyInversionExample {
     public DependencyInversionExample(SomeInterfaceExample abstraction) {
         this.abstraction = abstraction;
     }
-
 }
