@@ -6,6 +6,9 @@ import java.util.stream.Stream;
 
 import com.github.gcestaro.designprinciples.solid.ocp.models.C;
 
+/**
+ * "A Module should be open for extension but closed for modification." by Uncle Bob
+ */
 public class OpenAndClosed {
 
     private List<C> cImpls;
