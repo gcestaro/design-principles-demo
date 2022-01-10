@@ -1,6 +1,6 @@
-package com.github.gcestaro.designprinciples.ioc.util;
+package com.github.gcestaro.designprinciples.ioc;
 
-import com.github.gcestaro.designprinciples.ioc.MyApplication;
+import com.github.gcestaro.designprinciples.ioc.util.DIApplication;
 
 @MyApplication
 public class MainApplication {
